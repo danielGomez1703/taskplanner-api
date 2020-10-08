@@ -2,7 +2,7 @@
   "name": "taskplanner-api",
   "version": "1.0.0",
   "description": "task-planner-api",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "npm test"
   },
