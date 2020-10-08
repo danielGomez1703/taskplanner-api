@@ -1,0 +1,19 @@
+{
+  "name": "taskplanner-api",
+  "version": "1.0.0",
+  "description": "task-planner-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielGomez1703/taskplanner-api.git"
+  },
+  "author": "Daniel Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielGomez1703/taskplanner-api/issues"
+  },
+  "homepage": "https://github.com/danielGomez1703/taskplanner-api#readme"
+}
